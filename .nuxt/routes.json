@@ -3,105 +3,90 @@
     "name": "blog",
     "path": "/blog",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index",
-    "_name": "_83346bd4"
+    "chunkName": "pages/blog/index"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_2e24ac74"
+    "chunkName": "pages/contact"
   },
   {
     "name": "faq",
     "path": "/faq",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\faq.vue",
-    "chunkName": "pages/faq",
-    "_name": "_23914688"
+    "chunkName": "pages/faq"
   },
   {
     "name": "property",
     "path": "/property",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\property\\\\index.vue",
-    "chunkName": "pages/property/index",
-    "_name": "_4ac09703"
+    "chunkName": "pages/property/index"
   },
   {
     "name": "users-confirmemail",
     "path": "/users/confirmemail",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\confirmemail.vue",
-    "chunkName": "pages/users/confirmemail",
-    "_name": "_7400670a"
+    "chunkName": "pages/users/confirmemail"
   },
   {
     "name": "users-forgetpassword",
     "path": "/users/forgetpassword",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\forgetpassword.vue",
-    "chunkName": "pages/users/forgetpassword",
-    "_name": "_ba383394"
+    "chunkName": "pages/users/forgetpassword"
   },
   {
     "name": "users-my-account",
     "path": "/users/my-account",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\my-account.vue",
-    "chunkName": "pages/users/my-account",
-    "_name": "_0596aeba"
+    "chunkName": "pages/users/my-account"
   },
   {
     "name": "users-my-property",
     "path": "/users/my-property",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\my-property.vue",
-    "chunkName": "pages/users/my-property",
-    "_name": "_3b4a5c18"
+    "chunkName": "pages/users/my-property"
   },
   {
     "name": "users-register",
     "path": "/users/register",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\register.vue",
-    "chunkName": "pages/users/register",
-    "_name": "_a0ca0f5e"
+    "chunkName": "pages/users/register"
   },
   {
     "name": "users-resetpassword",
     "path": "/users/resetpassword",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\resetpassword.vue",
-    "chunkName": "pages/users/resetpassword",
-    "_name": "_18b213ac"
+    "chunkName": "pages/users/resetpassword"
   },
   {
     "name": "users-signin",
     "path": "/users/signin",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\signin.vue",
-    "chunkName": "pages/users/signin",
-    "_name": "_7d0e6160"
+    "chunkName": "pages/users/signin"
   },
   {
     "name": "users-updateproperty",
     "path": "/users/updateproperty",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\users\\\\updateproperty.vue",
-    "chunkName": "pages/users/updateproperty",
-    "_name": "_180e6d68"
+    "chunkName": "pages/users/updateproperty"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_86a1ae64"
+    "chunkName": "pages/blog/_slug"
   },
   {
     "name": "property-slug",
     "path": "/property/:slug",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\property\\\\_slug.vue",
-    "chunkName": "pages/property/_slug",
-    "_name": "_4909f5bb"
+    "chunkName": "pages/property/_slug"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Ninap\\\\Documents\\\\nuxt\\\\threezero\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_21951e10"
+    "chunkName": "pages/index"
   }
 ]
